@@ -1,4 +1,3 @@
-[200~cat > README.md << 'EOF'
 # Pandas Study Notes
 
 My personal notes while taking the Kaggle Learn courses:
